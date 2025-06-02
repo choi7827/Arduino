@@ -26,8 +26,6 @@ void loop() {
 
 ## a와 b로 LED 켜고 끄기
 
-![LED 01](https://github.com/user-attachments/assets/8fc30a81-cbf8-4e54-ba77-8fcbafe428a8)
-
 
 ```C
 void setup()
