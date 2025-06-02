@@ -5,9 +5,6 @@
 ## 
 
 ```C
-
-```
-
 #define LED_BUILTIN 8
 
 // the setup function runs once when you press reset or power the board
@@ -23,6 +20,7 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW
   delay(1000);                      // wait for a second
 }
+```
 
 ## a와 b로 LED 켜고 끄기
 ```C
