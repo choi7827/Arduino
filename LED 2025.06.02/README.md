@@ -1,6 +1,6 @@
 # LED 예제 1
 ## LED 깜빡이기
-![LED](./Images/led00.png)
+![LED](./Images/LED 00.png)
 
 ## 
 
