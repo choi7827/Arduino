@@ -76,7 +76,7 @@ void loop()
 }
 ```
 
-## 버튼을 사용한 LED 깜박이기
+## 버튼으로 LED 깜박이기
 
 ![LED 02](https://github.com/user-attachments/assets/de149b57-5069-4e4f-8120-1b993e3f1e7b)
 
